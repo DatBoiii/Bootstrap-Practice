@@ -1,1 +1,16 @@
-ECHO is on.
+.Top_3 {
+    text-align: center;
+    font-family: Verdana;
+}
+
+.col_sm {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+img {
+    width: 200px;
+}
